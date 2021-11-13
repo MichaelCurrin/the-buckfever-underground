@@ -17,7 +17,7 @@ title: The Buckfever Underground
 
 {% include image.html
     image_path="/assets/images/shows/2021/alma.jpg"
-    description="Alma Café in Cape Town"
+    description="Alma Café in Cape Town - Dec 2021"
     out_link=alma_link
 %}
 
