@@ -22,7 +22,7 @@ upgrade:
 
 clean:
 	# Remove resized images. Optional. Resizing is faster if images already exist.
-	rm -rf cache
+	rm -rf cache/
 
 
 
