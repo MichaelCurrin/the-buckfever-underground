@@ -13,6 +13,14 @@ title: The Buckfever Underground
 
 > “Good band, that Buckfever Underground… not a lot of people know that.” – Richard Haslop
 
+{% assign alma_link = "/shows/2021-12-03-alma.html" %}
+
+{% include image.html
+    image_path="/assets/images/shows/2021/alma.jpg"
+    description="Alma Café in Cape Town"
+    out_link=alma_link
+%}
+
 {% include image.html
     image_path='/assets/images/photos/2019/karoo.jpg'
     description='In the Karoo during the 2019 tour'
