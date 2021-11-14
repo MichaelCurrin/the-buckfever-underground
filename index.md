@@ -15,16 +15,24 @@ title: The Buckfever Underground
 
 {% assign alma_link = "/shows/2021-12-03-alma.html" %}
 
-{% include image.html
-    image_path="/assets/images/shows/2021/alma.jpg"
-    description="Alma Café in Cape Town - Dec 2021"
-    out_link=alma_link
+<div align="center">
+
+{% include image-resize.html
+    path="/assets/images/shows/2021/alma.jpg"
+    target=alma_link
+    options='500x500>'
 %}
 
-{% include image.html
-    image_path='/assets/images/photos/2019/karoo.jpg'
-    description='In the Karoo during the 2019 tour'
+<p><i>Dec 2021</i></p>
+
+{% include image-resize.html
+    path='/assets/images/photos/2019/karoo.jpg'
+    options='740x740>'
 %}
+
+<p><i>In the Karoo during the 2019 tour</i></p>
+
+</div>
 
 
 ## Covid-19 announcement
@@ -38,17 +46,17 @@ Read our [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organiz
 
 {% assign unix_now = 'now' | date: '%s' | plus: 0 %}
 {% assign shows = site.shows | sort: 'date' | reverse %}
-{% assign any_posts = false %}
+{% assign any_shows = false %}
 
 {% for show in shows %}
 {% assign post_time = show.date | date: '%s' | plus: 0 %}
 {% if post_time >= unix_now %}
 - {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
-{% assign any_posts = true %}
+{% assign any_shows = true %}
 {% endif %}
 {% endfor %}
 
-{% unless any_posts %}
+{% unless any_shows %}
 No shows scheduled yet. Watch this space and our social media.
 {% endunless %}
 
@@ -67,24 +75,15 @@ Read the review [here]({% link _press/satelliet/index.md %}).
 
 During lockdown in 2020, we recorded this album together without being in the same room. We sent recordings to each other and then mixed them together as full tracks. Listen to it [here]({{ satelliet_url }}).
 
-{% comment %}
-This compresses the image too much.
+<div align="center">
 
 {% include image-resize.html
     path="/assets/images/albums/satelliet.jpg"
     target=satelliet_url
     options='500x500>'
 %}
-{% endcomment%}
 
-<div align="center">
-    <a href="{{ satelliet_url }}">
-        <img src="{% link assets/images/albums/satelliet.jpg %}"
-            alt="{{ page.title }} album cover"
-            class="medium">
-    </a>
 </div>
-<br>
 
 
 ## Recent posts
@@ -95,7 +94,14 @@ This compresses the image too much.
 {% endfor %}
 
 
-{% include image.html
-    image_path='/assets/images/photos/stellenbosch.jpg'
-    description='Stellenbosch show in 2019'
+<div align="center">
+
+{% include image-resize.html
+    path="/assets/images/photos/stellenbosch.jpg"
+    target=satelliet_url
+    options='740x740>'
 %}
+
+<p><i>Stellenbosch show in 2019</i></p>
+
+</div>
