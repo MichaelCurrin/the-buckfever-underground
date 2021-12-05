@@ -9,9 +9,13 @@ A static website for the band named _The Buckfever Underground_.
 
 ## Project links
 
-[![Production site](https://img.shields.io/badge/site-thebuckfeverunderground.co.za-brightgreen?style=for-the-badge)](https://thebuckfeverunderground.co.za/)
+<div align="center">
+    
+[![Website](https://img.shields.io/badge/go_to-website-2ea44f?style=for-the-badge)](https://thebuckfeverunderground.co.za/)
 
-[![Docs site](https://img.shields.io/badge/docs-Github_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/the-buckfever-underground/)
+[![Docs site](https://img.shields.io/badge/go_to-docs-blue?style=for-the-badge)](https://michaelcurrin.github.io/the-buckfever-underground/)
+
+</div>
 
 
 ## License
