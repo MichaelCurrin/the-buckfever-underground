@@ -18,19 +18,11 @@ title: The Buckfever Underground
 <div align="center">
 
 {% include image-resize.html
-    path="/assets/images/shows/2021/alma.jpg"
-    target=alma_link
-    options='500x500>'
-%}
-
-<p><i>Dec 2021</i></p>
-
-{% include image-resize.html
     path='/assets/images/photos/2019/karoo.jpg'
     options='740x740>'
 %}
 
-<p><i>In the Karoo during the 2019 tour</i></p>
+<p><i>In the Karoo during our 2019 tour</i></p>
 
 </div>
 
@@ -63,7 +55,7 @@ No shows scheduled yet. Watch this space and our social media.
 
 ## Latest album
 
-Our new 6-track EP, _Satelliet_, is now is available as a digital album.
+Our 6-track EP, _Satelliet_, is available as a digital album and as hardcopy.
 
 Praise for our new EP, Satelliet:
 
