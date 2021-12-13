@@ -1,19 +1,32 @@
 # The Buckfever Underground
 > Static site content for a South African band that performs poetry with improvised music
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b329a8c4-11e0-4f4e-9247-6d496bd3331a/deploy-status)](https://app.netlify.com/sites/buckfever-underground/deploys)
+
 [![Made with Jekyll](https://img.shields.io/badge/jekyll-4-blue.svg)](https://jekyllrb.com)
 [![Theme minima](https://img.shields.io/badge/theme-minima-blue.svg)](https://github.com/jekyll/minima)
 
-A static website for the band named _The Buckfever Underground_.
 
-
-## Project links
+## Preview
 
 <div align="center">
-    
-[![Website](https://img.shields.io/badge/go_to-website-2ea44f?style=for-the-badge)](https://thebuckfeverunderground.co.za/)
+<a href="https://thebuckfeverunderground.co.za/">
 
-[![Docs site](https://img.shields.io/badge/go_to-docs-blue?style=for-the-badge)](https://michaelcurrin.github.io/the-buckfever-underground/)
+<img src="/sample.png" alt="Sample screenshot" width="500">
+<br>
+<br>
+    
+![View website](https://img.shields.io/badge/View-Website-2ea44f?style=for-the-badge)
+
+</a>
+</div>
+
+    
+## Documentation
+
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
 
 </div>
 
