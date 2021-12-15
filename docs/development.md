@@ -10,7 +10,6 @@ It is used in `_includes/image-resize.html` file.
 
 Use it like this - including forward slash at the start.
 
-{% raw %}
 ```liquid
 {% include image-resize.html
     path='/assets/images/merch/2020/hoodie-black-logo.jpg'
@@ -18,7 +17,6 @@ Use it like this - including forward slash at the start.
     options="550x550>"
 %}
 ```
-{% endraw %}
 
 If you can also use `image.html`, which uses `image-simple.html` and that includes a piece to resize every image, based on the width of the content on the site. That also centers the image.
 
@@ -62,7 +60,6 @@ Update: This is not needed anymore for Jekyll 4.
 
 e.g.
 
-{% raw %}
 ```liquid
 {{ site.baseurl }}{% link _pages/shows.md %}
 
@@ -70,22 +67,18 @@ Results in:
 
 /the-buckfever-underground/shows/
 ```
-{% endraw %}
 
 Unfortunately when referencing an index page, this creates a `/index.html` path rather than just `/` which is a duplicate page reference. But this is fine, as an error will be thrown without `index.md` part and also since the link function does not support replacement of the result value in a chain.
 
-{% raw %}
 ```
 {{ site.baseurl }}{% link _music/last-days-of-beautiful/index.md %}
 
 # Results in:
 /the-buckfever-underground/music/last-days-of-beautiful/index.html
 ```
-{% endraw %}
 
 When this is needed to be assigned to a variable or used in an `includes` statement, then use `capture` as shown below. This is necessary since the `link` filter cannot be set to a variable using `assign`. The `capture` approach also means the `append` filter is not needed so the syntax looks cleaner.
 
-{% raw %}
 ```
 {% capture album_link %}
    {{ site.baseurl }}{% link _music/last-days-of-beautiful/index.md %}
@@ -95,7 +88,6 @@ When this is needed to be assigned to a variable or used in an `includes` statem
 # Results in:
 /the-buckfever-underground/music/last-days-of-beautiful/index.html
 ```
-{% endraw %}
 
 If the result is capture, then a replace can be done to remove the name and extension.
 
@@ -118,14 +110,12 @@ For inserting images with captions, see the image figure function at `_includes/
 
 Example:
 
-{% raw %}
 ```
 {% include image.html
     image_path="/assets/images/merch/Last Days book.jpg"
     description="Book of the album's lyrics"
 %}
 ```
-{% endraw %}
 
 If you don't need a frame or caption, use the [image simple](/_includes/image_simple.html) function.
 
