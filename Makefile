@@ -33,13 +33,5 @@ i serve-incr:
 	bundle exec jekyll serve --trace  --livereload --incremental
 
 
-# For FTP.
-build: clean
+build:
 	JEKYLL_ENV=production bundle exec jekyll build --trace
-preview:
-	cd _site && python3 -m http.server
-
-# For Netlify.
-build-remote:
-	# Don't use Prod config here until moved to Netlify.
-	bundle exec jekyll build --trace
