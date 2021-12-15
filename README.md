@@ -1,5 +1,5 @@
 # The Buckfever Underground
-> Static site content for a South African band that performs poetry with improvised music
+> Static site for The Buckfever Underground - a South African band that performs poetry with improvised music
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b329a8c4-11e0-4f4e-9247-6d496bd3331a/deploy-status)](https://app.netlify.com/sites/buckfever-underground/deploys)
 
