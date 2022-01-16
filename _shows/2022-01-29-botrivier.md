@@ -1,11 +1,8 @@
 ---
 title: Shuntin Shed, Botriver
 date: 2022-01-29
+show_img: '/assets/images/shows/2022/29-jan-botrivier.jpg'
 ---
-
-{% include image.html
-    image_path="/assets/images/shows/2022/29-jan-botrivier.jpg"
-%}
 
 We're doing our first show of 2022 show in Botrivier.
 

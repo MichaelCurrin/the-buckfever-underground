@@ -12,4 +12,8 @@ layout: default
     <time>{{ page.date | date: "%b %-d, %Y" }}</time>
 </p>
 
+{% if page.show_img and page.show_img != '' %}
+    {% include image.html image_path=page.show_img %}
+{% endif %}
+
 {{ content }}
