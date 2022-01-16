@@ -2,7 +2,7 @@
 title: Walk Fast, Whistle
 description: Album
 date: 2013-07-01
-permalink: /:collection/walk_fast_whistle/
+permalink: /:collection/walk-fast-whistle/
 
 production: >-
     <p>Recorded on Sunday 7 July 2013 at Pocket Love Studios, Cape Town, by Jon Savage.</p>
