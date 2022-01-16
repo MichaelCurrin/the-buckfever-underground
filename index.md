@@ -43,7 +43,9 @@ Read our [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organiz
 {% for show in shows %}
 {% assign post_time = show.date | date: '%s' | plus: 0 %}
 {% if post_time >= unix_now %}
-- {{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | absolute_url }})
+**{{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | relative_url }})**
+{{ show.excerpt }}
+
 {% assign any_shows = true %}
 {% endif %}
 {% endfor %}
