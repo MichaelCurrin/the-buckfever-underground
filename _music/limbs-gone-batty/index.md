@@ -3,7 +3,7 @@ title: Limbs Gone Batty (live)
 description: Album
 sub_title: Or "The Role Of The Anterior-Posterior Patterning Signal, Sonic Hedgehog, In The Development Of The Unique Bat Limb"
 date: 2009-06-01
-permalink: /:collection/limbs_gone_batty/
+permalink: /:collection/limbs-gone-batty/
 
 image: "produkte limbs gone batty cd cover the buckfever underground.jpg"
 price_local: R115 (incl postage in South Africa)
@@ -21,6 +21,19 @@ production: >-
     <br>
     Limited numbered edition of 250 copies only.<br>
 ---
+
+1. Letter To The Lonely One
+1. The Curator
+1. The South African
+1. I Saw What Warrick Sony Saw
+1. I'm On Facebook Now What
+1. Teen Maandag Is Ons Dood
+1. Aids Test
+1. Die Volk Is In Die Kak
+1. The Anterior-Posterior Patterning Signal
+1. Don't Go On Holiday (bonus)
+1. Paasnaweek Lentesneeu (bonus)
+
 
 ## Buy online
 
