@@ -4,6 +4,14 @@ description: Single
 date: 2021-12-04
 permalink: /:collection/die-nagorno-karabakh-blues/
 
+image: die-nagorno-karabakh-blues.jpg
+
+bandcamp:
+    id: 4163754769
+    type: track
+    name: die-nagorno-karabakh-blues
+    title: Die Nagorno-Karabakh-blues by THE BUCKFEVER UNDERGROUND
+
 production: |
     Featuring Alex Bozas (guitar) and Paul Opie (bass), recorded at Cape Audio College on 17 May 2021.<br>
     <br>
