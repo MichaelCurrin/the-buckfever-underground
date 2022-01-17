@@ -40,7 +40,7 @@ Read our [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organiz
 {% assign shows = site.shows | sort: 'date' | reverse %}
 {% assign any_shows = false %}
 
-{% for show in shows %}
+{% for show in shows reversed %}
 {% assign post_time = show.date | date: '%s' | plus: 0 %}
 {% if post_time >= unix_now %}
 **{{ show.date | date: '%F' }}: [{{ show.title }}]({{ show.url | relative_url }})**
