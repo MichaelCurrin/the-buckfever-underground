@@ -4,9 +4,9 @@ description: Album
 date: 2022-10-28
 permalink: /:collection/voortvlugtend/
 
-image: satelliet-reduced.jpg
+image: voortvlugtend-reduced.jpg
 price_local:
-price_foreign:
+price_foreign: enquire about postage elsewhere, we make plan
 bandcamp:
     id: 3296429320 
     name: voortvlugtend
