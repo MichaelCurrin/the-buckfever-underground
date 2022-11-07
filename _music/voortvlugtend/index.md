@@ -5,8 +5,8 @@ date: 2022-10-28
 permalink: /:collection/voortvlugtend/
 
 image: voortvlugtend-reduced.jpg
-price_local:
-price_foreign: enquire about postage elsewhere, we make plan
+price_local: About R140, depending on exchange rate on the dollar price
+price_foreign: '$7.99'
 bandcamp:
     id: 3296429320 
     name: voortvlugtend
