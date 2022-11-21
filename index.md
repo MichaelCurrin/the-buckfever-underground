@@ -53,7 +53,7 @@ No shows scheduled yet. Watch this space and our social media.
 
 </div>
 
-Our new album, Voortvlugtend, is actually an old album recorded back in November 2013, but, it took us some time to get it out and ready! Better late than never, right...
+Our new album, **Voortvlugtend**, is actually an old album recorded back in November 2013, but, it took us some time to get it out and ready! Better late than never, right...
 
 It features the full 5-member band line-up of that era: Gilad Hockman, Jon Savage, Righard Kapp, Toast Coetzer and Stephen Timm.
 
