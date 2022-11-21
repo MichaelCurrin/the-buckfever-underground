@@ -11,27 +11,11 @@ title: The Buckfever Underground
     {% link _music/last-days-of-beautiful/index.md %}
 {% endcapture %}
 
+{% capture voortvlugtend_url %}
+    {% link _music/voortvlugtend/index.md %}
+{% endcapture %}
+
 > “Good band, that Buckfever Underground… not a lot of people know that.” – Richard Haslop
-
-{% assign alma_link = "/shows/2021-12-03-alma.html" %}
-
-<div align="center">
-
-{% include image-resize.html
-    path='/assets/images/photos/2019/karoo.jpg'
-    options='740x740>'
-%}
-
-<p><i>In the Karoo during our 2019 tour</i></p>
-
-</div>
-
-
-## Covid-19 announcement
-
-{% include covid-banner.html %}
-
-Read our [blog post]({% post_url 2020-04-16-show-solidarity %}) about an organization which you can support.
 
 
 ## Upcoming shows
@@ -55,11 +39,31 @@ No shows scheduled yet. Watch this space and our social media.
 {% endunless %}
 
 
-## Latest album
+## Latest releases
+
+### Voortvlugtend
+
+<div align="center">
+
+{% include image-resize.html
+    path='/assets/images/albums/voortvlugtend-reduced.jpg'
+    target='https://buckfeverunderground.bandcamp.com/album/voortvlugtend'
+    options='500x500>'
+%}
+
+</div>
+
+Our new album, Voortvlugtend, is actually an old album recorded back in November 2013, but, it took us some time to get it out and ready! Better late than never, right...
+
+It features the full 5-member band line-up of that era: Gilad Hockman, Jon Savage, Righard Kapp, Toast Coetzer and Stephen Timm.
+
+You can download it from Bandcamp [here](https://buckfeverunderground.bandcamp.com/album/voortvlugtend) or email us on <info@toastcoetzer.com> if you’d like to order a CD-R copy.
+
+### Satelliet
 
 Our 6-track EP, _Satelliet_, is available as a digital album and as hardcopy.
 
-Praise for our new EP, Satelliet:
+Praise for Satelliet:
 
 > “‘The Buckfever Underground’ have created a work of art that may leave you feeling strong and somewhat mellow, wallowing in the calm after entertaining the demands of chaos.”
 >
