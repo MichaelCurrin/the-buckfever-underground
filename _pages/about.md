@@ -62,10 +62,6 @@ The book is available to order on [Amazon][] (ebook available). Or read more abo
 [LitNet]: https://www.litnet.co.za/296110-2/
 [LinkedIn post]: https://www.linkedin.com/feed/update/urn:li:activity:6782894568309305344/
 
-### Michael Currin
-
-Michael plays electric guitar and sometimes acoustic guitar. He takes inspiration for his experimental ambient soundscapes from bands like the Doors, Pink Floyd, Explosions in the Sky and Tool.
-
 
 ## History
 
@@ -86,6 +82,5 @@ The picture above is from just after we finished recording our Verkeerdevlei alb
     out_link="https://www.instagram.com/p/BkrwHy8Fqex/"
 %}
 
-The latest member is the guitarist, [Michael Currin](#michael-currin), who joined in 2017.
 
 Read more about us on [The Buckfever Underground](https://en.wikipedia.org/wiki/Buckfever_Underground) page on Wikipedia.
