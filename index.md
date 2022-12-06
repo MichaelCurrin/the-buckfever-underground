@@ -15,7 +15,7 @@ title: The Buckfever Underground
     {% link _music/voortvlugtend/index.md %}
 {% endcapture %}
 
-The Buckfever Underground is a South African rock band that fuses improvised music and spoken word (in English and Afrikaans), to create a unique and powerful sound. Known for their thought-provoking lyrics and passion for social justice, Buckfever Underground is a must-see for fans of rock and spoken word.
+The Buckfever Underground is a South African spoken-word band that plays free-form improvised jazz-rock / post-rock. We perform poetry in English and Afrikaans with experimental music.
 
 > “Good band, that Buckfever Underground… not a lot of people know that.” – Richard Haslop
 
