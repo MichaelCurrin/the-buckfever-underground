@@ -82,5 +82,6 @@ The picture above is from just after we finished recording our Verkeerdevlei alb
     out_link="https://www.instagram.com/p/BkrwHy8Fqex/"
 %}
 
+Michael Currin was in the band from 2017 to 2022 and played on the recordings "The Last Days of Beautiful" and "Satelliet".
 
 Read more about us on [The Buckfever Underground](https://en.wikipedia.org/wiki/Buckfever_Underground) page on Wikipedia.
