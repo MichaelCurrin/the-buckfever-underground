@@ -55,11 +55,11 @@ No shows scheduled yet. Watch this space and our social media.
 
 </div>
 
-Our new album, **Voortvlugtend**, is actually an old album recorded back in November 2013, but, it took us some time to get it out and ready! Better late than never, right...
+Our new album, **Voortvlugtend**, is actually an old album recorded back in November 2013, but, it took us some time to get it out and ready! Better late than never, right…
 
 It features the full 5-member band line-up of that era: Gilad Hockman, Jon Savage, Righard Kapp, Toast Coetzer and Stephen Timm.
 
-You can download it from Bandcamp [here](https://buckfeverunderground.bandcamp.com/album/voortvlugtend) or email us on <info@toastcoetzer.com> if you’d like to order a CD-R copy.
+You can download it from Bandcamp [here](https://buckfeverunderground.bandcamp.com/album/voortvlugtend) or email us on <info@toastcoetzer.com> if you’d like to order a CD-R copy. The album is also available on [Spotify](https://open.spotify.com/artist/64CsQDGZFx0ejzIy8VFaI9), [Apple Music](https://music.apple.com/za/artist/the-buckfever-underground/265957199), [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_nErN4c_INcKwAfEwxtjHtrbAFoV-rRAdo), [Deezer](https://www.deezer.com/en/artist/566238) and other streaming and download services.
 
 ### Satelliet
 
