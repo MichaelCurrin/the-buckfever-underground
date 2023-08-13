@@ -1,5 +1,5 @@
 ---
-title: Disrupt, surprise, abhor – the role of art in our scroll-by world, according to Toast Coetzer
+title: 'Daily Maverick inteview titled "Disrupt, surprise, abhor – the role of art in our scroll-by world, according to Toast Coetzer"'
 date: 2023-07-19
 permalink: /:collection/interview-art-scroll/
 ---
