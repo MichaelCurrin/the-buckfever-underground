@@ -4,10 +4,8 @@ date: 2023-07-19
 permalink: /:collection/interview-art-scroll/
 ---
 
-Original article on the Daily Maverick site [here](https://www.dailymaverick.co.za/article/2023-07-19-toast-coetzer-disrupt-surprise-abhor-in-a-scroll-by-world/
-).
-
----
+_Original article on the Daily Maverick site [here](https://www.dailymaverick.co.za/article/2023-07-19-toast-coetzer-disrupt-surprise-abhor-in-a-scroll-by-world/
+)._
 
 Toast Coetzer sees himself primarily as a journalist and his travel writing is well known in South Africa, but his music, poetry and photographs speak deeply of his creative soul too.
 
