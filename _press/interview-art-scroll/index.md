@@ -1,5 +1,5 @@
 ---
-title: 'Daily Maverick inteview titled "Disrupt, surprise, abhor – the role of art in our scroll-by world, according to Toast Coetzer"'
+title: 'Mick Raubenheimer (Daily Maverick) interview titled: "Disrupt, surprise, abhor – the role of art in our scroll-by world, according to Toast Coetzer"'
 date: 2023-07-19
 permalink: /:collection/interview-art-scroll/
 ---
@@ -41,4 +41,4 @@ I haven’t dabbled with it yet, but as my friend Jon Savage told me, roughly pa
 
 ## Any project you’re unveiling/wrapping up?
 
-This winter I’ll be working on the next edition of [Ons Klyntji zine](https://klyntji.com/ons-klyntji), which I co-edit with Erns Grundling, Joe Botha and others. It’s a collection of mostly Afrikaans and English poetry, short stories and black-and-white visuals ranging from comics to documentary photography. It will be out – if all goes well – by mid-September. DM
+This winter I’ll be working on the next edition of [Ons Klyntji zine](https://klyntji.com/ons-klyntji), which I co-edit with Erns Grundling, Joe Botha and others. It’s a collection of mostly Afrikaans and English poetry, short stories and black-and-white visuals ranging from comics to documentary photography. It will be out – if all goes well – by mid-September.
