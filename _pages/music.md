@@ -17,7 +17,6 @@ links:
     icon: spotify
   - name:  Deezer
     url: https://www.deezer.com/us/artist/566238
-    icon: deezer
   - name: CD Baby
     url: https://store.cdbaby.com/Artist/TheBuckfeverUnderground
 ---
